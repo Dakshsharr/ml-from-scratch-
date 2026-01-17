@@ -9,9 +9,9 @@ This repository contains implementations of core machine learning algorithms fro
 to understand the algorithms on fundamental level and not rely on high level libraries.
 
 # Techstack
--Python
--Numpy 
--Matplotlib
+- Python
+- Numpy 
+- Matplotlib
 
 ## Author
 Daksh Sharma
