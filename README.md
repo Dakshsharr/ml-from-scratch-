@@ -1,6 +1,6 @@
 # Machine Learning from scratch
 
-his repository contains implementations of core machine learning algorithms built from scratch using Python and NumPy, without relying on high-level libraries such as scikit-learn.
+this repository contains implementations of core machine learning algorithms built from scratch using Python and NumPy, without relying on high-level libraries such as scikit-learn.
 
 # Implemented Algorithms 
 - Decision Trees(Classification)
