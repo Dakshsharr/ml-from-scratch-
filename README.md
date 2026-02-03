@@ -4,6 +4,7 @@ this repository contains implementations of core machine learning algorithms bui
 
 # Implemented Algorithms 
 - Decision Trees(Classification)
+- Linear regression(using Gradient Descent)
 
 # Goal
 to understand the algorithms on fundamental level and not rely on high level libraries.
